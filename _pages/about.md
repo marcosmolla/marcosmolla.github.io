@@ -15,8 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am computational and evolutionary biologist with a background in behavioural physiology and ecology. My research focusses on **how we make culture and how this affects us**. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am **developing simulation models** and **analyse existing data** to study how culture emerges from individual and inter-individual actions and how it spreads in populations. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I explicitly model dynamic social networks to simulate real-world interaction and information sharing patterns that change over time. I am currently working towards a modelling framework that is more explicit about the process of learning, taking into account insights from developmental psychology, ethnography, and anthropology.
+
+I am a member of the **Theory in Cultural Evolution Lab** ([TICE](https://ticelab.mystrikingly.com)) in the **Deaprtment of Human Behavior, Ecology and Culture ([HBEC](https://www.eva.mpg.de/ecology/index/))** at the Max Planck Institute in Leipzig. 
