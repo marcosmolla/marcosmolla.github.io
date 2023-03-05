@@ -10,4 +10,4 @@ What we can learn from others, such as skills that help us to cope with our envi
 
 In this project, I develop an agent-based simulation model together with Erol Akçay to better understand the feedback between culture and network structure.
 
-Read [UPenn's official press release)(https://penntoday.upenn.edu/news/societys-cultural-practices-shape-structure-its-social-networks-penn-study-shows) or the aricle in [Science Advances](https://doi.org/10.1126/sciadv.aaw0609).
+Read [UPenn's official press release](https://penntoday.upenn.edu/news/societys-cultural-practices-shape-structure-its-social-networks-penn-study-shows) or the aricle in [Science Advances](https://doi.org/10.1126/sciadv.aaw0609).
