@@ -4,7 +4,7 @@ title: Culture-Network Coevolution
 description: At the intersection of culture and social network research
 img: assets/img/7.jpg
 importance: 1
-category: research
+category: ongoing
 ---
 
 Every project has a beautiful feature showcase page.
