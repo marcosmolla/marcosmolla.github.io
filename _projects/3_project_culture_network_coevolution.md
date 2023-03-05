@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Culture-Network Coevolution
-description: a project that redirects to another website
+description: At the intersection of culture and social network research
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 1
 category: research
 ---
