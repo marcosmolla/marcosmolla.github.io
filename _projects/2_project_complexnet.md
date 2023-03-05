@@ -4,7 +4,7 @@ title: complexNet
 description: an R libary to generate social inheritance networks
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: coding
 ---
 
 Every project has a beautiful feature showcase page.
