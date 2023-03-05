@@ -4,7 +4,7 @@ title: ESLR
 description: An early-career researcher network
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: outreach
 ---
 
 Every project has a beautiful feature showcase page.
