@@ -4,3 +4,33 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"Phil Trans B":
+  url: https://royalsocietypublishing.org/journal/rstb
+
+"An Rev Anth":
+  url: https://www.annualreviews.org/journal/anthro
+
+"R Soc Open Sci":
+  url: https://royalsocietypublishing.org/journal/rsos
+
+"Proc B": 
+  url: https://royalsocietypublishing.org/journal/rspb
+
+"Metho Eco Evol":
+  url: https://besjournals.onlinelibrary.wiley.com/journal/2041210x
+
+"Arthro Struct Dev":
+  url: https://www.sciencedirect.com/journal/arthropod-structure-and-development
+
+"Evol Anthro":
+  url: https://onlinelibrary.wiley.com/journal/15206505
+
+"bioRxiv":
+  url : https://www.biorxiv.org
+  color: "#73B9EE"
+
+"SocArXiv":
+  url: https://osf.io/preprints/socarxiv
+  color: "#73B9EE"
+  
