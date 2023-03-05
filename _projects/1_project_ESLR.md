@@ -3,7 +3,7 @@ layout: page
 title: ESLR
 description: An early-career researcher network
 img: assets/img/12.jpg
-importance: 1
+importance: 3
 category: ongoing
 ---
 
