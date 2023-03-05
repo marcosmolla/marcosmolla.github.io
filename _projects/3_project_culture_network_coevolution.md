@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Culture-Network Coevolution
+title: cult net evo
 description: At the intersection of culture and social network research
 img: assets/img/7.jpg
 importance: 1
