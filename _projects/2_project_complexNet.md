@@ -1,7 +1,7 @@
 ---
 layout: page
 title: complexNet
-description: an R libary to generate social inheritance networks
+description: An R libary to generate social inheritance networks
 img: assets/img/3.jpg
 importance: 2
 category: coding
