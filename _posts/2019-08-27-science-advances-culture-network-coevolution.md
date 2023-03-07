@@ -4,7 +4,7 @@ title:  Culture-Network Coevolution
 date:   2019-08-27 16:40:16
 description: Re press-release of our 2019 Sceince Advances article
 tags: formatting links
-categories: publication
+categories: sample-posts
 ---
 ![featured](/assets/img/featured_hu19337feddcabfbd8f6d4d46d8a8fceb6_2966410_720x0_resize_q90_lanczos.jpg)
 
