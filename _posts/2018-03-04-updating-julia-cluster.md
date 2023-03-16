@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new post from me
+title: Updating Julia on your cluster
 date: 2018-03-04 00:59:00-0400
 description: Updating your version of Julia on a shared computer cluster
 categories: sample-posts
