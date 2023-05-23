@@ -28,9 +28,9 @@
 
 "bioRxiv":
   url : https://www.biorxiv.org
-  color: "#73B9EE"
+  color: "#00005a"
 
 "SocArXiv":
   url: https://osf.io/preprints/socarxiv
-  color: "#73B9EE"
+  color: "#00005a"
   
