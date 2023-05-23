@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Home Range Bootstrapping
+title:  From UD Rasters to Contour Rasters
 date:   2012-08-23 16:40:16
-description: The new home range bootstrap function for the Move package
+description: Transforming UD rasters into contour rasters
 tags: formatting links
 categories: sample-posts
 ---
