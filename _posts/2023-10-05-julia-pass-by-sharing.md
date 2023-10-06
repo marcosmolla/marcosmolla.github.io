@@ -73,7 +73,7 @@ new_m
 
 Now, we find that the original `Array` to which `new_m` pointed has been changed, according to the changes made inside the function. 
 
-The is because Julia passes arguments by sharing them. Instead of creating a copy specifically for the use inside the function, Julia simply points to the same object. This binding will be broken, when there is a new assignment to the argument (as we have seen above with `x = ones(Int, len, len)`). 
+The is because Julia passes arguments by sharing them. Instead of creating a copy specifically for the use inside the function, Julia simply points to the same object. This binding will only be broken, when there is a new assignment to the argument (as we have seen above with `x = ones(Int, len, len)`) but not if we make changes to the object. 
 
 This behaviour is also well documented in Julia's manual [right here](https://docs.julialang.org/en/v1/manual/functions/#man-argument-passing), and [discussed here](https://docs.julialang.org/en/v1/manual/faq/#I-passed-an-argument-x-to-a-function,-modified-it-inside-that-function,-but-on-the-outside,-the-variable-x-is-still-unchanged.-Why?).
 
