@@ -8,7 +8,7 @@ categories: coding
 ---
 There is an interesting behaviour that exists in various programming languages, where a mutable (i.e. it can be changed) object (such as an `Array`) is changed in place, if it is passed as an argument to a function and then changed inside that function.
 
-Here is an example of https://docs.julialang.org/en/v1/manual/functions/#man-argument-passing see also https://docs.julialang.org/en/v1/manual/faq/#I-passed-an-argument-x-to-a-function,-modified-it-inside-that-function,-but-on-the-outside,-the-variable-x-is-still-unchanged.-Why? 
+Let's begin with a matrix as the object we will pass to a function, say: 
 
 ```julia
 m = [0 1 1 0 1; 1 0 0 1 0; 1 0 0 1 0; 0 1 1 0 0; 1 0 0 0 0]
