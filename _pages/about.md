@@ -21,4 +21,4 @@ I am **developing simulation models** and **analyse existing data** to study how
 
 I explicitly model dynamic social networks to simulate real-world interaction and information sharing patterns that change over time. I am currently working towards a modelling framework that is more explicit about the process of learning, taking into account insights from developmental psychology, ethnography, and anthropology.
 
-I am a member of the **Theory in Cultural Evolution Lab** ([TICE](https://ticelab.mystrikingly.com)) in the **Deaprtment of Human Behavior, Ecology and Culture** ([HBEC](https://www.eva.mpg.de/ecology/index/)) at the [Max Planck Institute in Leipzig](https://www.eva.mpg.de/index/). 
+I was a member of the **Theory in Cultural Evolution Lab** ([TICE](https://ticelab.mystrikingly.com)) in the **Deaprtment of Human Behavior, Ecology and Culture** ([HBEC](https://www.eva.mpg.de/ecology/index/)) at the [Max Planck Institute in Leipzig](https://www.eva.mpg.de/index/). 
